@@ -2,8 +2,6 @@
 <h3 align="center">A random infosec / science enthusiast guy</h3>
 <h4 align="center">(Full time pentester)</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianetahiri&label=Profile%20views&color=0e75b6&style=flat" alt="soufianetahiri" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soufianetahiri" alt="soufianetahiri" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/s0ufi4n3" target="blank"><img src="https://img.shields.io/twitter/follow/s0ufi4n3?logo=twitter&style=for-the-badge" alt="s0ufi4n3" /></a> </p>
