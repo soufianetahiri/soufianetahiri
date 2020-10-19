@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soufiane Tahiri</h1>
 <h3 align="center">A random infosec / science enthusiast guy</h3>
+<h4 align="center">Full time pentester</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianetahiri&label=Profile%20views&color=0e75b6&style=flat" alt="soufianetahiri" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 📝 I regulary write articles on [https://resources.infosecinstitute.com/author/soufiane-tahiri/](https://resources.infosecinstitute.com/author/soufiane-tahiri/)
 
-- 💬 Ask me about **Reverse Engineering, Forensics, Pentesting, OSINT**
+- 💬 Ask me about **Reverse Engineering, Forensics, Pentesting, OSINT, Physics, Space, Cosmos... !**
 
 - 📫 How to reach me **soufianetahiri@gmail.com**
 
