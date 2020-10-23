@@ -8,7 +8,7 @@
 
 - 👨‍💻 Check out my book [https://www.packtpub.com/product/mastering-mobile-forensics/9781785287817](https://www.packtpub.com/product/mastering-mobile-forensics/9781785287817)
 
-- 📝 I regulary write articles on [https://resources.infosecinstitute.com/author/soufiane-tahiri/](https://resources.infosecinstitute.com/author/soufiane-tahiri/)
+- 📝 I used to write articles on [https://resources.infosecinstitute.com/author/soufiane-tahiri/](https://resources.infosecinstitute.com/author/soufiane-tahiri/)
 
 - 💬 Ask me about **Reverse Engineering, Forensics, Pentesting, OSINT, Physics, Space, Cosmos... !**
 
