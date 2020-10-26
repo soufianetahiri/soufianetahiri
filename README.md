@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soufiane Tahiri</h1>
-<h3 align="center">A random infosec / science enthusiast guy</h3>
+<h3 align="center">A random <a href ="https://security.stackexchange.com/users/91193/soufiane-tahiri" target="blank">infosec</a> / science enthusiast guy</h3>
 <h4 align="center">(Full time pentester)</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soufianetahiri" alt="soufianetahiri" /></a> </p>
