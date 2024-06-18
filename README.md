@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Reverse Engineering, Forensics, Pentesting, OSINT, Physics, Space, Cosmos... !**
 
-- 📫 How to reach me **soufianetahiri[[@]]gmail[[.]]com**
-
 - ⚡ Fun fact **I spend most of my free time walking my dog :)**
 
 <h3 align="left">Connect with me:</h3>
